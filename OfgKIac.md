@@ -44,7 +44,7 @@ Label the Batman Bowling worksheet. Students should have a pretty strong underst
     </div>
 </body>
 ```
-Properly formatted HTML should have nested tags indented like the example above. So a tag that comes before the end tag of the previous element should be indented. When they are finished make sure students have properly closed all of their tags.
+Properly formatted HTML should have nested tags indented like the example above. An element that comes before the end tag of the previous element should be indented. When they are finished make sure students have properly closed all of their tags.
 
 ### PREPARE:
 Distribute the printed inkscape prototypes to the students.  If for any reason a students prototype is incomplete or missing, students should be given a piece of paper to draw their prototype. These prototypes are going to be come the websites that students create so emphasize to them the importance of having a good prototype.
@@ -56,4 +56,4 @@ When students have a complete prototype, they should label each section of their
 On a fresh piece of paper, students will begin translating their labeled prototype into proper HTML tags. 
 
 ### ONLINE:
-With their translated prototype, students will login to codepen.io and input their HTML.  Instructions for how to login and input their first pen can be found here (add link).  As they write the tags, elements will appear in the preview box (NOTE: The image names that they are currently using for the source will not display any images. Getting the source for images will be covered later.). 
+With their translated prototype, students will login to codepen.io and input their HTML.  Instructions for how to login and input their first pen can be found here (add link).  As they write the tags, elements will appear in the preview box (NOTE: The image names that they are currently using for the source will not display any images. Getting the source for images will be covered later.).
