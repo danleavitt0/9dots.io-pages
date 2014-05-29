@@ -18,7 +18,7 @@ id: "danleavitt0-OfgKIac"
 - Create a login for codepen.io (one account can be used by all of the students)
 - Gather all of the student prototypes. If you have the means, printing them out would be preferable.
 
-##Lesson:
+## Lesson:
 
 ### REVIEW:
 _Which tag surrounds the entire website?_
