@@ -54,6 +54,3 @@ When students have a complete prototype, they should label each section of their
 
 ### TRANSLATE:
 On a fresh piece of paper, students will begin translating their labeled prototype into proper HTML tags. 
-
-### ONLINE:
-With their translated prototype, students will login to codepen.io and input their HTML.  Instructions for how to login and input their first pen can be found here (add link).  As they write the tags, elements will appear in the preview box (NOTE: The image names that they are currently using for the source will not display any images. Getting the source for images will be covered later.).
