@@ -53,4 +53,4 @@ Distribute the printed inkscape prototypes to the students.  If for any reason a
 When students have a complete prototype, they should label each section of their page as one of the five tags that they have learned in previous lessons. It can be helpful to have a list of the tags in the room for the students to reference. Students should set up at least one div on their page and mark the body around the entire prototype.
 
 ### TRANSLATE:
-On a fresh piece of paper, students will begin translating their labeled prototype into proper HTML tags. 
+On a fresh piece of paper, students will begin translating their labeled prototype into proper HTML tags.
