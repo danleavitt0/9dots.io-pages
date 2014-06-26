@@ -16,7 +16,6 @@ title: Web Design 6
 
 ## Preparation:
 
-- Create a login for codepen.io (one account can be used by all of the students)
 - Gather all of the student prototypes. If you have the means, printing them out would be preferable.
 
 ## Lesson:
@@ -29,10 +28,10 @@ _What are the three parts of an HTML tag?_
 The start tag, the content, and the end tag.
 
 _What is the content of the **div** tag?_
-The div can contain other HTML elements as its content.
+The div can contain other HTML elements or text as its content.
 
 ### HOOK:
-With all of the knowledge of HTML that they have gathered thus far, students now have all of the necessary tools to translate their prototypes into the HTML tags that will become their website. Today, they will label their prototype, translate it to HTML, and then input that HTML on codepen. Codepen will allow them to see their website as they create it.
+Students now have all of the necessary tools to translate their prototypes into the HTML tags that will become their website. Today, they will label their prototype, translate it to HTML, and then input that HTML on codepen. Codepen will allow them to see their website as they create it.
 
 ### AS A GROUP:
 Label the Batman Bowling worksheet. Students should have a pretty strong understanding of which label tag goes with each section. Once it is labeled students will write down the HTML on lined paper while the instructor writes on the whiteboard. 
