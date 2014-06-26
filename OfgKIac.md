@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 blurb: During this lesson students will translate their prototype into HTML and learn how to use codepen.io to create their websites.
 objective: By the end of the lesson students will be able to translate their prototype into HTML and  create their first website on codepen.io
