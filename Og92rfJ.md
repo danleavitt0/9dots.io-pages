@@ -10,6 +10,7 @@ attachments:
     name: CSSChecklist.pdf
 id: "danleavitt0-Og92rfJ"
 title: Web Design 9
+image: "http://uploads.9dots.io/OiKjIfX_md.jpg"
 
 ---
 
