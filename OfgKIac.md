@@ -6,7 +6,7 @@ type: lesson
 blurb: During this lesson students will translate their prototype into HTML and learn how to use codepen.io to create their websites.
 objective: By the end of the lesson students will be able to translate their prototype into HTML and  create their first website on codepen.io
 id: "danleavitt0-OfgKIac"
-title: Web Design 6
+title: From Prototypes to HTML
 
 ---
 
@@ -33,24 +33,33 @@ The div can contain other HTML elements or text as its content.
 ### HOOK:
 Students now have all of the necessary tools to translate their prototypes into the HTML tags that will become their website. Today, they will label their prototype, translate it to HTML, and then input that HTML on codepen. Codepen will allow them to see their website as they create it.
 
+### FORMATTING:
+When writing HTML, it is important format it correctly so that it can be easily read. To format HTML, **nested tags** should be indented one tab from their parent tag.
+
 ### AS A GROUP:
-Label the Batman Bowling worksheet. Students should have a pretty strong understanding of which label tag goes with each section. Once it is labeled students will write down the HTML on lined paper while the instructor writes on the whiteboard. 
+Label the Batman Bowling worksheet. Once it is labeled students will write down the HTML on lined paper while the instructor writes on the whiteboard. 
 ```
 <body>
 	<h1> Batman Bowling </h1>
     <div>
-    	<img src="batman.png">
-        <p> Batman description </p>
+    	<p> Ever wonder what batman does in his free time? </p>
+    	<img src="batmanlogo.png">
     </div>
+    <p> He goes Bowling! Bowl with all of your favorite Batman characters
+    		including Joker, Batman, Robin, and more! </p>
+    <div>
+    	<img src="Joker.png"/>
+        <img src="Batman.png"/>
+        <img src="Robin.png"/>
+	</div>
 </body>
 ```
-Properly formatted HTML should have nested tags indented like the example above. An element that comes before the end tag of the previous element should be indented. When they are finished make sure students have properly closed all of their tags.
 
 ### PREPARE:
 Distribute the printed inkscape prototypes to the students.  If for any reason a students prototype is incomplete or missing, students should be given a piece of paper to draw their prototype. These prototypes are going to be come the websites that students create so emphasize to them the importance of having a good prototype.
 
 ### LABEL:
-When students have a complete prototype, they should label each section of their page as one of the five tags that they have learned in previous lessons. It can be helpful to have a list of the tags in the room for the students to reference. Students should set up at least one div on their page and mark the body around the entire prototype.
+When students have a complete prototype, they should label each section of their page as one of the five tags that they have learned in previous lessons. It can be helpful to have a list of the tags in the room for the students to reference. Students should set up at least two divs on their page and mark the body around the entire prototype.
 
 ### TRANSLATE:
 On a fresh piece of paper, students will begin translating their labeled prototype into proper HTML tags.
