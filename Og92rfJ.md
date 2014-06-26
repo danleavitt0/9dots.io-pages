@@ -39,6 +39,20 @@ The id selector will style just the element that has the matching id in its HTML
     margin:20px;
 }
 ```
+
+### CLASSES:
+Like an id, the **class attribute** makes it easier to select just the elements that need to be styled. The class can be used on multiple elements of any type. For example:
+```
+	<div class="container"></div>
+    <p class="container"></p>
+    <div>
+```
+To select just the elements with the class 'container', the CSS rule needs to use the '.' class selector. For the example above it would look like:
+```
+	.container{
+    	text-align:center;
+    }
+```
 ### GUIDED:
 Hand out the final CSS checklist. Students will then open their computers to the Batman Bowling example site. With the teacher, students will complete the starred CSS rules for the image. To accomplish this, students will type the following into the CSS box on their codepen:
 ```
@@ -49,7 +63,7 @@ img {
 ```
 
 ### CHALLENGE:
-Using all of their CSS knowledge, students will attempt to complete the rest of the checklist. Students should focus on the starred items first and then return to the rest of the list once those rules are set.
+Students will complete the rest of the checklist. Students should focus on the starred items first and then return to the rest of the list once those rules are set.
 
 ### MOVING FORWARD:
 Students who finish early can begin to work on their own websites. Students that have not finished inputting HTML should complete that first and then move on to styling their website with the CSS rules that they have learned.
