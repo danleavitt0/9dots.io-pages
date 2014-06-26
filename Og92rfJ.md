@@ -9,7 +9,7 @@ attachments:
   - path: "http://uploads.9dots.io/Og95kWA.pdf"
     name: CSSChecklist.pdf
 id: "danleavitt0-Og92rfJ"
-title: Web Design 9
+title: Class Styles
 image: "http://uploads.9dots.io/OiKjIfX_md.jpg"
 
 ---
