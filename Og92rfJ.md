@@ -25,7 +25,7 @@ image: "http://uploads.9dots.io/OiKjIfX_md.jpg"
 ## Lesson
 
 ### REVIEW:
-_Which properties set the size of an element?_
+_Which properties set the size of an element?
 The height and width properties will set the size of any HTML element.
 
 _Which selector is used to style just one element?_
@@ -43,6 +43,7 @@ The id selector will style just the element that has the matching id in its HTML
 
 ### CLASSES:
 Like an id, the **class attribute** makes it easier to select just the elements that need to be styled. The class can be used on multiple elements of any type. For example:
+
 ```
 	<div class="container"></div>
     <p class="container"></p>
