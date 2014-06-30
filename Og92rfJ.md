@@ -29,7 +29,7 @@ _Which properties set the size of an element?_
 The height and width properties will set the size of any HTML element.
 
 _Which selector is used to style just one element?_
-The id selector will style just the element that has the matching id in its HTML tag. To us the id selector we type a ‘#’ followed by the id that was given in the HTML. For example:
+The id selector will style just the element that has the matching id in its HTML tag. To us the id selector we type a `#` followed by the id that was given in the HTML. For example:
 ```
 <img id="logo" src="batman.png">
 ```
