@@ -25,7 +25,7 @@ image: "http://uploads.9dots.io/OiKjIfX_md.jpg"
 ## Lesson
 
 ### REVIEW:
-_Which properties set the size of an element?
+_Which properties set the size of an element?_
 The height and width properties will set the size of any HTML element.
 
 _Which selector is used to style just one element?_
