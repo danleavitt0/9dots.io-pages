@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 id: "danleavitt0-OiDz029"
 title: Secret Agent Theme Song
