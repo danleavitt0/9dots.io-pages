@@ -8,6 +8,9 @@ title: Secret Agent Theme Song
 blurb: Students will become music producers as they learn the ins and outs of creating their own songs using GarageBand.
 objective: "By the end of the lesson students will be able to define a music loop,  as well as create a secret agent song using the loops in GarageBand"
 image: "http://uploads.9dots.io/OihMfQn_md.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/OjM5Drh.pdf"
+    name: SecretAgentHandout.pdf
 
 ---
 
@@ -28,7 +31,7 @@ Modern music is created using computer software and microphones. Each instrument
 In GarageBand, it is not necessary to play instruments at all. The software comes with music that is already created in short segments that can be put together to create a song. The short segments are called “Loops.” By finding the correct loops and mixing them together, you can create a wide variety of music without any instruments.
 
 ###WATCH:
-Students will watch the Secret Agent Tutorial video to learn about how to add loops to create a song.
+Students will watch the [Secret Agent Tutorial Video](https://www.youtube.com/watch?v=HMuQchbJRG0) to learn about how to add loops to create a song.
 
 ###CHECK FOR UNDERSTANDING:
 _What is a loop?_
