@@ -47,10 +47,10 @@ To practice building based on a plan, the group will plan using an example bluep
 #### DEMONSTRATE:
 On the board, show a blueprint of a robot. As a group, plan out the order of building the robot. It is important to build the body of the robot first, before moving on to the head, and then finally the limbs. This order is important because the robot needs to have it's fixed parts before any moving parts can be added.
 
-### Independent Practice
+### Explore
 
 #### WRITTEN:
 Before they can start building, students will write out the order that they will build the robot in. Planning the order in which they build is an important step in the process of engineering!
 
-#### EXPLORE:
+#### BUILD:
 Using their blueprints and building plan as a guide, students will start building their dream robots!
