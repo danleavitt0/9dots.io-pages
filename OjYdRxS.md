@@ -10,8 +10,6 @@ objective: "By the end of the lesson, students will be able to explain the impor
 
 ---
 
-learn how to take blueprints to building
-
 ## Materials 
 
 - Cardboard
