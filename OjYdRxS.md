@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 id: "danleavitt0-OjYdRxS"
-title: "Cardboard Robots: Intro"
+title: "Cardboard Robots: Planning"
 blurb: "Using their blueprints as a guide, students will plan the order in which they build their robot, and then begin the process of building it."
 objective: "By the end of the lesson, students will be able to explain the importance of a building plan , and create a building plan based on their blueprints."
 
@@ -55,4 +55,4 @@ On the board, show a blueprint of a robot. As a group, plan out the order of bui
 Before they can start building, students will write out the order that they will build the robot in. Planning the order in which they build is an important step in the process of engineering!
 
 #### EXPLORE:
-Using their blueprints and building plan as a guide, students will start building their dream robots! 
+Using their blueprints and building plan as a guide, students will start building their dream robots!
