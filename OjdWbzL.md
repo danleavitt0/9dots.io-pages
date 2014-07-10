@@ -16,6 +16,7 @@ attachments:
 id: "danleavitt0-OjdWbzL"
 blurb: "Students will learn about circuits through hands-on learning using conductive tape, lights, and batteries."
 objective: "By the end of the lesson, students will be able to identify the components of a circuit, describe how a switch works, and demonstrate knowledge by constructing their own circuit."
+image: "http://uploads.9dots.io/Ojdqe0t_md.jpg"
 
 ---
 
