@@ -42,12 +42,27 @@ A light need a power source, wires, and a switch to be able to light up.
 _How does it work?_
 When all of those components are connected, they make a circuit.
 
-
-
 ## Guided Practice
+
+### Explain:
+_What is a circuit?_
+Circuits are like a one way street for electricity. The battery pushes the electricity through the wires, across the switch, to the light, and finally back to the battery. For the cars (or electricity) to flow, all of the roads must be connected.
+
+![](http://uploads.9dots.io/Ojdii0Z_md.jpg) 
+
+### Try It:
+Using the energy ball, test the concept of a circuit. All of the students will stand in a circle holding hands. Two people standing next to each other will be the light, with each of them holding on to one of the electrodes (the metal pieces). When the whole circle is connected, the ball will light up and make a noise.
+
+### Switches:
+A switch makes it possible to turn a light on and off by opening and closing a circuit. To test this concept, designate one student to be the switch. He or she will be in charge of turning the light on and off by opening and closing the circuit (letting go off their neighbors hand).
+
+### Illustrate:
+In a team of two, students will now diagram a circuit. They should be sure to include all of the components (power source, wires, switch, and light) and show the direction in which the electricty is flowing.
 
 ## Explore
 
+### Materials:
+Show students the materials they will be using to create their own circuits. Make sure to relate each of them to the components of a circuit that students have learned about.
 
 o	Learn about circuits
 •	How does a light light up? What components do you need?
