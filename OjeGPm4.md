@@ -8,6 +8,8 @@ attachments:
   - path: "http://uploads.9dots.io/OjeKGGN.pdf"
     name: robotBudget.pdf
 id: "danleavitt0-OjeGPm4"
+blurb: Students will learn about working within a budget as they work toward completing their robot.
+objective: "By the end of the lesson, students will be able to explain the importance of a budget."
 
 ---
 
@@ -22,7 +24,7 @@ id: "danleavitt0-OjeGPm4"
 
 ## Media and Handouts
 
-- N/A
+- Robot budget
 
 ## Project time
 
