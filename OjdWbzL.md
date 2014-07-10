@@ -26,6 +26,8 @@ objective: "By the end of the lesson, students will be able to identify the comp
 - [LED lights](https://www.sparkfun.com/products/12062)
 - [Conductive paint](http://www.bareconductive.com/shop/electric-paint-10ml/)
 - [Energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS)
+- [Batteries](https://www.sparkfun.com/products/338)
+- [Battery holder](https://www.sparkfun.com/products/8822)
 
 ## Media and Handouts
 
