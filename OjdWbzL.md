@@ -14,6 +14,8 @@ attachments:
   - path: "http://uploads.9dots.io/OjdeWpW_md.jpg"
     name: "robot-1.jpg"
 id: "danleavitt0-OjdWbzL"
+blurb: "Students will learn about circuits through hands-on learning using conductive tape, lights, and batteries."
+objective: "By the end of the lesson, students will be able to identify the components of a circuit, describe how a switch works, and demonstrate knowledge by constructing their own circuit."
 
 ---
 
@@ -64,22 +66,16 @@ In a team of two, students will now diagram a circuit. They should be sure to in
 ### Materials:
 Show students the materials they will be using to create their own circuits. Make sure to relate each of them to the components of a circuit that students have learned about.
 
-o	Learn about circuits
-•	How does a light light up? What components do you need?
-•	Power source
-•	Wires
-•	Switch
-•	When all of these components are connected, they make something called a circuit
-o	Understand the different components of a circuit
-•	Use the energy ball to make a human circuit
-•	http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS
-•	Experiment with what happens when people break the circuit
-o	Circuits are like a one way street – 
-•	Electricity needs to be flowing in the correct direction, and all of the roads need to be connected for cars to flow
-•	As a group, work to make the diagram of the one way streets so that the cars can flow
-•	Show how this is the same concept for a circuit with battery and light
-o	Review pieces of the bare conductive cards – have example there
-•	Have a picture on the board of the light and the battery to show the positive and negative sides
-o	make robot cards with circuits
-•	walk students through the steps to make a circuit with an led light
-o	discussion – how could you use the bare conductive on your final robot?
+### Build:
+Students will construct their own circuits on their robot cards. Students should use the circuit diagrams that they created as a guide. An example could look like:
+
+![](http://uploads.9dots.io/OjdoN6j_md.jpg) 
+
+Step-by-step instructions can be found in the wiki section of this website.
+
+```
+TIP: The polarity of the batteries and the lights must be aligned! The longer leg of the LED is always the positive side.
+```
+
+### Think Pair Share
+With a partner, students will discuss how could they could use circuits to enhance their robot?
