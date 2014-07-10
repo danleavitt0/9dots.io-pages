@@ -9,6 +9,10 @@ attachments:
     name: "9865972-modern-robot-with-happy-heart.jpg"
   - path: "http://uploads.9dots.io/OjdeP92_md.jpg"
     name: "clumsy-funny-robot-with-heart-500px.jpg"
+  - path: "http://uploads.9dots.io/OjdeVL9_md.jpg"
+    name: ROBOT_HEART_by_puncturedkidneys.jpg
+  - path: "http://uploads.9dots.io/OjdeWpW_md.jpg"
+    name: "robot-1.jpg"
 id: "danleavitt0-OjdWbzL"
 
 ---
@@ -19,6 +23,7 @@ id: "danleavitt0-OjdWbzL"
 - [Copper tape](https://www.sparkfun.com/products/10561)
 - [LED lights](https://www.sparkfun.com/products/12062)
 - [Conductive paint](http://www.bareconductive.com/shop/electric-paint-10ml/)
+- [Energy ball](http://www.amazon.com/Energy-Ball-Scientific-your-fingertips/dp/B000OU9RMS)
 
 ## Media and Handouts
 
@@ -26,7 +31,18 @@ id: "danleavitt0-OjdWbzL"
 
 ## Project Time
 
+- 40 minutes
+
 ## Introduce
+
+### Hook:
+_What components are needed to turn on a light?_
+A light need a power source, wires, and a switch to be able to light up.
+
+_How does it work?_
+When all of those components are connected, they make a circuit.
+
+
 
 ## Guided Practice
 
