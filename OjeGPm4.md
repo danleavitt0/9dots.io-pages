@@ -13,7 +13,9 @@ objective: "By the end of the lesson, students will be able to explain the impor
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Pipe cleaners
 - Construction paper
@@ -22,11 +24,11 @@ objective: "By the end of the lesson, students will be able to explain the impor
 - Fabric
 - Other craft supplies...
 
-## Media and Handouts
+### Media and Handouts:
 
 - Robot budget
 
-## Project time
+### Project time:
 
 - 40 minutes
 
