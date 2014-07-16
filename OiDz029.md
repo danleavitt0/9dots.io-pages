@@ -14,15 +14,19 @@ attachments:
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computer with GarageBand software
 - [Secret Agent Tutorial](https://www.youtube.com/watch?v=HMuQchbJRG0)
  
-## Lesson:
+## Introduce
 
 ### DO NOW:
 Students will write down their best guess to the question, “How are songs created?”
+
+## Guided Practice
 
 ### EXPLAIN:
 Modern music is created using computer software and microphones. Each instrument (drums, guitar, vocals, etc) are recorded separately and then mixed together using the software on the computer. In fact, some of the music doesn’t even come from an instrument, but from the computer itself. For this project, we will be using the GarageBand software to create our own songs and movie scores.
@@ -32,6 +36,8 @@ In GarageBand, it is not necessary to play instruments at all. The software come
 
 ###WATCH:
 Students will watch the [Secret Agent Tutorial Video](https://www.youtube.com/watch?v=HMuQchbJRG0) to learn about how to add loops to create a song.
+
+## Explore
 
 ###CHECK FOR UNDERSTANDING:
 _What is a loop?_
