@@ -14,15 +14,17 @@ attachments:
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 
 - Gather all of the student prototypes. If you have the means, printing them out would be preferable.
 
-## Lesson:
+## Introduce
 
 ### REVIEW:
 _Which tag surrounds the entire website?_
@@ -36,6 +38,8 @@ The div can contain other HTML elements or text as its content.
 
 ### HOOK:
 Students now have all of the necessary tools to translate their prototypes into the HTML tags that will become their website. Today, they will label their prototype, translate it to HTML, and then input that HTML on codepen. Codepen will allow them to see their website as they create it.
+
+## Guided Practice
 
 ### FORMATTING:
 When writing HTML, it is important format it correctly so that it can be easily read. To format HTML, **nested tags** should be indented one tab from their parent tag.
@@ -58,6 +62,8 @@ Label the Batman Bowling worksheet. Once it is labeled students will write down 
 	</div>
 </body>
 ```
+
+## Explore
 
 ### PREPARE:
 Distribute the printed inkscape prototypes to the students.  If for any reason a students prototype is incomplete or missing, students should be given a piece of paper to draw their prototype. These prototypes are going to be come the websites that students create so emphasize to them the importance of having a good prototype.
