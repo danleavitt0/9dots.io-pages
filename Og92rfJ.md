@@ -14,15 +14,17 @@ image: "http://uploads.9dots.io/OjMqBPj_md.jpg"
 
 ---
 
-## Materials:
+## Setup
+
+### Materials:
 
 - Computers with internet access
 
-## Preparation:
+### Preparation:
 
 - Print the final CSS checklist worksheet
 
-## Lesson
+## Introduce
 
 ### REVIEW:
 _Which properties set the size of an element?_
@@ -55,7 +57,10 @@ To select just the elements with the class 'container', the CSS rule needs to us
     	text-align:center;
     }
 ```
-### GUIDED:
+
+## Guided Practice
+
+### Try it:
 Hand out the final CSS checklist. Students will then open their computers to the Batman Bowling example site. With the teacher, students will complete the starred CSS rules for the image. To accomplish this, students will type the following into the CSS box on their codepen:
 ```
 img {
@@ -63,6 +68,8 @@ img {
     height:300px;
 }
 ```
+
+## Explore
 
 ### CHALLENGE:
 Students will complete the rest of the checklist. Students should focus on the starred items first and then return to the rest of the list once those rules are set.
