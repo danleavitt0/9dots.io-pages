@@ -10,7 +10,8 @@ attachments:
     name: CSSChecklist.pdf
 id: "danleavitt0-Og92rfJ"
 title: Class Styles
-image: "http://uploads.9dots.io/OjMqBPj_md.jpg"
+image: "http://uploads.9dots.io/Okh7xhF_md.jpg"
+fullImage: "http://uploads.9dots.io/Okh7xhF_lrg.jpg"
 
 ---
 
