@@ -7,10 +7,11 @@ id: "danleavitt0-OiDz029"
 title: Secret Agent Theme Song
 blurb: Students will become music producers as they learn the ins and outs of creating their own songs using GarageBand.
 objective: "By the end of the lesson students will be able to define a music loop,  as well as create a secret agent song using the loops in GarageBand"
-image: "http://uploads.9dots.io/OihMfQn_md.jpg"
+image: "http://uploads.9dots.io/OkhCef5_md.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/OjM5Drh.pdf"
     name: SecretAgentHandout.pdf
+fullImage: "http://uploads.9dots.io/OkhCef5_lrg.jpg"
 
 ---
 
