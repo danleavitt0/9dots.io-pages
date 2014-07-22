@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 blurb: "During this lesson, students will get practice styling a website with all of the CSS properties that they have learned about in the unit."
-objective: "By the end of the lesson students will be able to define a CSS property, recognize an id selector in a style sheet, and demonstrate learning by styling the website to match the provided checklist."
+objective: "By the end of the lesson, students will be able to define a CSS property, recognize an id selector in a style sheet, and demonstrate learning by styling the website to match the provided checklist."
 attachments: 
   - path: "http://uploads.9dots.io/Og95kWA.pdf"
     name: CSSChecklist.pdf
