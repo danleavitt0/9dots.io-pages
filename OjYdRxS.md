@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 id: "danleavitt0-OjYdRxS"
 title: "Cardboard Robots: Planning"
