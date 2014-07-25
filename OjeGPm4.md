@@ -10,8 +10,8 @@ attachments:
 id: "danleavitt0-OjeGPm4"
 blurb: Students will learn about working within a budget as they work toward completing their robot.
 objective: "By the end of the lesson, students will be able to explain the importance of a budget."
-image: "http://uploads.9dots.io/Oksh0Co_md.jpg"
-fullImage: "http://uploads.9dots.io/Oksh0Co_lrg.jpg"
+image: "http://uploads.9dots.io/Ol481X6_md.jpg"
+fullImage: "http://uploads.9dots.io/Ol481X6_lrg.jpg"
 
 ---
 
