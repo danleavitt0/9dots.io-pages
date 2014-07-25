@@ -7,11 +7,11 @@ blurb: During this lesson students will translate their prototype into HTML and 
 objective: By the end of the lesson students will be able to translate their prototype into HTML and  create their first website on codepen.io
 id: "danleavitt0-OfgKIac"
 title: From Prototypes to HTML
-image: "http://uploads.9dots.io/Okh6GPH_md.jpg"
+image: "http://uploads.9dots.io/Ol3rgYd_md.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/OiKGFJh.pdf"
     name: Batman Bowling.pdf
-fullImage: "http://uploads.9dots.io/Okh6GPH_lrg.jpg"
+fullImage: "http://uploads.9dots.io/Ol3rgYd_lrg.jpg"
 
 ---
 
