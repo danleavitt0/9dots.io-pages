@@ -7,6 +7,8 @@ title: Stomp Rockets
 id: "danleavitt0-Oo4Lmp3"
 image: "http://uploads.9dots.io/Oo4POut_md.jpg"
 fullImage: "http://uploads.9dots.io/Oo4POut_lrg.jpg"
+objective: "SWBAT define Newton's third law of physics, and explain why the flight of a projectile is parabolic/"
+blurb: "Students will create and launch #rockets from construction paper, an index card and some tape."
 
 ---
 
