@@ -5,6 +5,8 @@ published: false
 type: lesson
 title: Stomp Rockets
 id: "danleavitt0-Oo4Lmp3"
+image: "http://uploads.9dots.io/Oo4POut_md.jpg"
+fullImage: "http://uploads.9dots.io/Oo4POut_lrg.jpg"
 
 ---
 
