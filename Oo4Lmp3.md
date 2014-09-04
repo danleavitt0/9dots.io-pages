@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: Stomp Rockets
 id: "danleavitt0-Oo4Lmp3"
