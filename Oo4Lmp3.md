@@ -50,7 +50,8 @@ A 45 degree launch angle gives the rocket the best mix of horizontal and vertica
 For every action, there is an equal and opposite reaction. Our rocket’s initial velocity comes from the air pressure that builds up in the pipe when you step on the bottle. When the rocket is fitted onto the end of the pipe, it forms an airtight seal. When you step on the bottle, air is forced out of the bottle into the pipe, which pushes the rocket off the pipe so the air can escape. The “push” that the air gives the rocket determines the initial speed of the rocket. The direction of the pipe determines the initial direction of the rocket.
 
 ## Explore
-Students will attempt to build their own rockets from the paper.
+Students have 30 minutes to build their rockets using the materials provided to them. The goal is to make the projectile that will fly the furthest. 
+
 Building the Rockets: 
 
 1. Wrap paper loosely around the PVC pipe (if you wrap the paper too tightly around the pipe, friction will keep the rocket stuck on the pipe during launch)
@@ -66,3 +67,11 @@ Adding Fins:
 
 ## Evaluate
 Students will make a second rocket and launch it. Students should be asked what angle they would like their rocket launched at.
+
+## Standards
+
+| Standard | Text | Connection |
+| --- | --- | --- |
+| 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Explore |
+| 3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Explain |
+| MS-PS2-2 | Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object | Explain | 
