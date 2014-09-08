@@ -74,4 +74,4 @@ Now is the time to test the different designs that students have created. After 
 | --- | --- | --- |
 | 3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Explore |
 | MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Evaluate |
-| MS-PS2-2 | Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object | Explain | 
+| MS-PS2-2 | Plan an investigation to provide evidence that the chance in an object’s motion depends on the sum of forces on the object and the mass of the object | Explain |
