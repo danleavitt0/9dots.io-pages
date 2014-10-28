@@ -43,12 +43,12 @@ Introduce students to projectile motion by showing them a video of machines desi
 
 1. Show a [video of pumpkin chunkin](https://www.youtube.com/watch?v=dmSyrGsqmg8)
 
-2. Like in the video, students will be creating their own projectiles and launching them by stomping on a soda bottle.
+2. Like in the video, students are creating their own projectiles and launching them by stomping on a soda bottle.
 
 ## Explain - 10 minutes
 With the powerpoint, explain to students the different factors that determine how far their rocket will fly.
 
-1. **Projectile**: When you throw a ball, toss a pumpkin, or launch a stomp rocket, the object that is thrown or launched is called a projectile. In this activity, our rocket is a projectile.
+1. **Projectile**: When you throw a ball, toss a pumpkin, or launch a stomp rocket, the object that is thrown or launched is called a projectile. In this activity, the rocket that students create is a projectile.
 
 2. **Projectile motion**: Once launched, all projectiles follow a frown-shaped path known as a parabola, due to the effects of gravity. Gravity, which acts downward, only influences the vertical motion of the projectile. The initial velocity of an object determines its horizontal motion, which remains the same (constant) throughout its flight.
 
@@ -75,7 +75,7 @@ Students have 30 minutes to build their rockets using the materials provided to 
   3. Tape the fins on the rocket, spaced equally apart from each other
 
 ## Evaluate - 10 minutes
-Now is the time to test the different designs that students have created. After specifying the angle of their launch, students will stomp on the soda bottle to test their design. Mark the landing place of each rocket to determine which design flew the furthest.
+Now is the time to test the different designs that students have created. After specifying the angle of their launch, students stomp on the soda bottle to test their design. Mark the landing place of each rocket to determine which design flew the furthest.
 
 ## Standards
 
