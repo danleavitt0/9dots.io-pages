@@ -75,7 +75,7 @@ Students have 30 minutes to build their rockets using the materials provided to 
   3. Tape the fins on the rocket, spaced equally apart from each other
 
 ## Evaluate - 10 minutes
-Now is the time to test the different designs that students have created. After specifying the angle of their launch, students stomp on the soda bottle to test their design. Mark the landing place of each rocket to determine which design flew the furthest.
+Test the different designs that students have created. After specifying the angle of their launch, students stomp on the soda bottle to test their design. Mark the landing place of each rocket to determine which design flew the furthest.
 
 ## Standards
 
