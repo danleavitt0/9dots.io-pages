@@ -10,8 +10,8 @@ fullImage: "http://uploads.9dots.io/Oo4SZjs_lrg.jpg"
 objective: "SWBAT define Newton's third law of physics, and explain why the flight of a projectile is parabolic."
 blurb: "Students will design #rockets to achieve maximum distance and learn about parabolic flight. #NGSS-3-5-ETS1-1 #NGSS-MS-ETS1-2 #NGSS-MS-PS2-2"
 attachments: 
-  - path: "http://uploads.9dots.io/OouseHL.pptx"
-    name: Stomp Rockets (1).pptx
+  - path: "http://uploads.9dots.io/Ou0fJHP.pptx"
+    name: StompRockets.pptx
 
 ---
 
@@ -29,6 +29,8 @@ attachments:
 ### Preparation:
 
 - Construct launcher (see wiki)
+
+### 
 
 ## Engage
 Show a [video of pumpkin chunkin](https://www.youtube.com/watch?v=dmSyrGsqmg8). Like in the video, students will be creating their own projectiles and launching them by stomping on a soda bottle.
