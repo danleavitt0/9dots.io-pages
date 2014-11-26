@@ -75,3 +75,9 @@ fullImage: "http://uploads.9dots.io/Ol3rgYd_lrg.jpg"
 	- It can be helpful to have a list of the tags in the room for the students to reference.
 
 3. On a fresh piece of paper, students begin translating their labeled prototype into proper HTML tags.
+
+## Standards
+
+Standard | Description | Connection
+-------- | ----------- | ----------
+CPP.L3A-01 | Create and organize web pages through the use of a variety of web programming design tools. | Explain, Elaborate
