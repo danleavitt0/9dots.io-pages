@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-blurb: "During this lesson students will translate their #prototype into #HTML and learn how to use #codepen to create their #websites."
+blurb: "During this lesson students translate their #prototype into #HTML and learn how to use #codepen to create their #websites. Start by explaining how to properly format HTML. Students practice on paper by hand writing the batman bowling handout as HTML. Students demonstrate learning by translating their prototypes into HTML."
 objective: 
   - Create a website on codepen.io
   - Translate a prototype into HTML
