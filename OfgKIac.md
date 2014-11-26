@@ -5,8 +5,8 @@ published: true
 type: lesson
 blurb: "During this lesson students will translate their #prototype into #HTML and learn how to use #codepen to create their #websites."
 objective: 
-  - Translate their prototype into HTML
   - Create a website on codepen.io
+  - Translate a prototype into HTML
 id: "danleavitt0-OfgKIac"
 title: From Prototypes to HTML
 image: "http://uploads.9dots.io/Ol3rgYd_md.jpg"
