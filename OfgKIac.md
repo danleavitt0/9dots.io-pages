@@ -33,7 +33,7 @@ fullImage: "http://uploads.9dots.io/Ol3rgYd_lrg.jpg"
 
 - 45 minutes
 
-## Engage
+## Engage - 5 minutes
 
 1. Start by reviewing what students have learned about HTML
 	1. _Which tag surrounds the entire website?_
@@ -45,7 +45,7 @@ fullImage: "http://uploads.9dots.io/Ol3rgYd_lrg.jpg"
 
 2. Students now have all of the necessary tools to translate their prototypes into the HTML tags that will become their website. Today, they are labelling their prototype, translating it to HTML, and then inputting that HTML on codepen. Codepen allows them to see their website as they create it.
 
-## Explain
+## Explain - 10 minutes
 
 1. When writing HTML, it is important format it correctly so that it can be easily read. To format HTML, **nested tags** should be indented one tab from their parent tag.
 
@@ -67,7 +67,7 @@ fullImage: "http://uploads.9dots.io/Ol3rgYd_lrg.jpg"
 </body>
 ```
 
-## Elaborate
+## Elaborate - 30 minutes
 
 1. Distribute the printed inkscape prototypes to the students.  If for any reason a students prototype is incomplete or missing, students should be given a piece of paper to draw their prototype. These prototypes are going to be come the websites that students create so emphasize to them the importance of having a good prototype.
 
