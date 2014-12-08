@@ -43,7 +43,7 @@ Students write down their best guess to the question, â€œHow are songs created?â
 
 2. In GarageBand, it is not necessary to play instruments at all. The software comes with music that is already created in short segments that can be put together to create a song. The short segments are called **loops**. By finding the correct loops and mixing them together, you can create a wide variety of music without any instruments.
 
-3. Students will watch the [Secret Agent Tutorial Video](https://www.youtube.com/watch?v=HMuQchbJRG0) to learn about how to add loops to create a song.
+3. Students watch the [Secret Agent Tutorial Video](https://www.youtube.com/watch?v=HMuQchbJRG0) to learn about how to add loops to create a song.
 
 ## Elaborate
 
