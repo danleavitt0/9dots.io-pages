@@ -33,11 +33,11 @@ fullImage: "http://uploads.9dots.io/Ol3t6rd_lrg.jpg"
 
 - 45 minutes
  
-## Engage
+## Engage - 5 minutes
 
 Students write down their best guess to the question, “How are songs created?”
 
-## Explain
+## Explain - 10 minutes
 
 1. Modern music is created using computer software and microphones. Each instrument (drums, guitar, vocals, etc) are recorded separately and then mixed together using the software on the computer. In fact, some of the music doesn’t even come from an instrument, but from the computer itself. For this project, student are using the GarageBand software to create their own songs and movie scores.
 
@@ -45,7 +45,7 @@ Students write down their best guess to the question, “How are songs created?�
 
 3. Students watch the [Secret Agent Tutorial Video](https://www.youtube.com/watch?v=HMuQchbJRG0) to learn about how to add loops to create a song.
 
-## Elaborate
+## Elaborate - 30 minutes
 
 1. Check for understanding by asking, _"What is a loop?"_
 
@@ -55,4 +55,4 @@ Students write down their best guess to the question, “How are songs created?�
 
 | Standard      | Description   | Connection  |
 | ------------- |---------------| ------|
-| CSTA.CPP.L2-01. | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems | Elaborate | 
+| CSTA.CPP.L2-01. | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems | Elaborate |
