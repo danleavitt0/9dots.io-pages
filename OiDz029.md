@@ -50,3 +50,9 @@ Students write down their best guess to the question, â€œHow are songs created?â
 1. Check for understanding by asking, _"What is a loop?"_
 
 2. Students use the information from the video and a handout with the loops used to create their own secret agent songs. Students create the same one as in the tutorial first, and then once that is completed, they can try altering it to make it their own.
+
+## Standards
+
+| Standard      | Description   | Connection  |
+| ------------- |---------------| ------|
+| CSTA.CPP.L2-01. | Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems | Elaborate | 
