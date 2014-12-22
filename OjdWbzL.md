@@ -14,7 +14,7 @@ attachments:
   - path: "http://uploads.9dots.io/OjdeWpW_md.jpg"
     name: "robot-1.jpg"
 id: "danleavitt0-OjdWbzL"
-blurb: "Students will learn about circuits through hands-on learning using conductive tape, lights, and batteries."
+blurb: "Students learn about circuits through hands-on learning using conductive tape, lights, and batteries."
 objective: 
   - Identify the components of a circuit
   - Describe how a switch works
